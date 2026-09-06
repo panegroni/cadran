@@ -1,0 +1,13 @@
+node_modules
+.vercel
+screenshots
+artifacts
+.tmp
+.grok/preview.log
+.grok/status
+.grok/og-pending
+.grok/skills
+.grok/references
+AGENTS.md
+*.log
+.project_id
